@@ -36,7 +36,7 @@
 
  1. Clone the repository:
     ```bash
-    git clone https://github.com/<username>/ai-or-human.git
+    git clone https://github.com/SergeySetti/ai-or-human.git
     cd ai-or-human
     ```
  2. (Optional) Create and activate a virtual environment:
