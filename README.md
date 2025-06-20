@@ -58,7 +58,7 @@ Run the sample script to extract subset form the large dataset
 
 Run the feature extraction script to compute features for the dataset:
  ```bash
-    python features.py
+python features.py
 ```
 
  Open `detector.ipynb` to play with the model training and evaluation in Jupyter Notebook.
